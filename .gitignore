@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+*.csv
+logs/*.log
+.vscode/
+code_backup.py

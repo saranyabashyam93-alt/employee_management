@@ -1,0 +1,1 @@
+SELECT Email FROM EMPLOYEES WHERE Email=?;

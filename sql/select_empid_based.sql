@@ -1,0 +1,1 @@
+SELECT * FROM EMPLOYEES WHERE Employee_ID = ?;
